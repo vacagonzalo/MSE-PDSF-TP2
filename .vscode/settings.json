@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "chapu",
+        "fftshift",
+        "matplotlib",
+        "pyplot",
+        "scipy",
+        "simpleaudio"
+    ],
+    "python.formatting.provider": "black"
+}
